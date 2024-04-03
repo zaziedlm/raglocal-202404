@@ -1,0 +1,8 @@
+# input data(PDF etc) folder.
+data/
+
+# LLM models folder.
+models/
+
+# poetry local_env dependency.
+poetry.lock
