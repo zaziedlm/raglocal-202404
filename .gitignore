@@ -6,4 +6,4 @@ models/
 sentence_transformers/
 
 # poetry local_env dependency.
-poetry.lock
+#poetry.lock
